@@ -50,7 +50,7 @@ export default function Page() {
           rel="noopener noreferrer"
           className="fixed bottom-4  shadow-lg shadow-green-500  animate__animated animate__wobble animate__slow animate__infinite right-4 bg-green-700 hover:bg-green-800 text-white p-4 rounded-full shadow-lg"
         >
-          {/* <IoLogoWhatsapp className="text-4xl" /> */}
+          <IoLogoWhatsapp className="text-4xl" />
         </a>
 
         {/* Pointer popup */}
